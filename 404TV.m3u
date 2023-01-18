@@ -1,5 +1,19 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="66" tvg-name="66" tvg-logo="https://raw.githubusercontent.com/YL404/404TV/blob/main/LOGOS/douyu.jpeg" group-title="douyu",66
+#EXTINF:-1,tvg-id="66" tvg-name="66" tvg-logo="https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/douyu.jpeg" group-title="douyu",66
 https://epg.112114.xyz/douyu/156277
-#EXTINF:-1,tvg-id="YJJ" tvg-name="YJJ" tvg-logo="https://raw.githubusercontent.com/YL404/404TV/blob/main/LOGOS/douyu.jpeg" group-title="douyu",YJJ
+#EXTINF:-1,tvg-id="YJJ" tvg-name="YJJ" tvg-logo="https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/douyu.jpeg" group-title="douyu",YJJ
 https://epg.112114.xyz/douyu/687423
+#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="蜡笔小新-bilibili-001" tvg-logo="https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/labixiaoxin.png" group-title="蜡笔小新",蜡笔小新-bilibili-10375360
+http://zzy789.xyz/bili.php?id=10375360
+#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="蜡笔小新-bilibili-002" tvg-logo="https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/labixiaoxin.png" group-title="蜡笔小新",蜡笔小新-bilibili-26329057
+http://zzy789.xyz/bili.php?id=26329057
+#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="蜡笔小新-bilibili-003" tvg-logo="https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/labixiaoxin.png" group-title="蜡笔小新",蜡笔小新-bilibili-26631712
+http://zzy789.xyz/bili.php?id=26631712
+#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="柯南-001" tvg-logo="https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/kenan.png" group-title="名侦探柯南",柯南-001
+http://epg.112114.xyz/douyu/7050342
+#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="柯南-002" tvg-logo="https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/kenan.png" group-title="名侦探柯南",柯南-002
+http://epg.112114.xyz/douyu/6484910
+#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="柯南-003" tvg-logo="https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/kenan.png" group-title="名侦探柯南",柯南-003
+http://epg.112114.xyz/douyu/1783144
+#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="柯南-004" tvg-logo="https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/kenan.png" group-title="名侦探柯南",柯南-004
+http://epg.112114.xyz/douyu/7620081
