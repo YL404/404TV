@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="66" tvg-name="66" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/douyu.jpeg" group-title="douyu",66
-https://epg.112114.xyz/douyu/156277
-#EXTINF:-1,tvg-id="YJJ" tvg-name="YJJ" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/douyu.jpeg" group-title="douyu",YJJ
-https://epg.112114.xyz/douyu/687423
 #EXTINF:-1,tvg-id="动漫" tvg-name="蜡笔小新-bilibili-001" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/labixiaoxin.JPG" group-title="动漫",蜡笔小新-001
 http://zzy789.xyz/bili.php?id=10375360
 #EXTINF:-1,tvg-id="动漫" tvg-name="蜡笔小新-bilibili-002" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/labixiaoxin.JPG" group-title="动漫",蜡笔小新-002
@@ -23,3 +19,7 @@ http://epg.112114.xyz/douyu/6484910
 http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
 #EXTINF:-1,tvg-id="动漫" tvg-name="柯南-004" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/kenan.JPG" group-title="动漫",柯南-004
 http://epg.112114.xyz/douyu/7620081
+#EXTINF:-1,tvg-id="66" tvg-name="66" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/douyu.jpeg" group-title="Douyu",66
+https://epg.112114.xyz/douyu/156277
+#EXTINF:-1,tvg-id="YJJ" tvg-name="YJJ" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/douyu.jpeg" group-title="Douyu",YJJ
+https://epg.112114.xyz/douyu/687423
