@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CCTV 4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png"
-group-title="高清",CCTV 4K-50P-001
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="高清",CCTV4K-50P-001
 http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV 4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png"
-group-title="高清",CCTV 4K-50P-002
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="高清",CCTV4K-50P-002
 http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8
 #EXTINF:-1,tvg-id="动漫" tvg-name="蜡笔小新-bilibili-001" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/labixiaoxin.JPG" group-title="动漫",蜡笔小新-001
 http://zzy789.xyz/bili.php?id=10375360
