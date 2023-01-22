@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="高清",CCTV4K-50P-001
-CCTV4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="高清",CCTV16-50P-002
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="高清",CCTV4K-50
+http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="高清",CCTV16-50
 http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8 
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/gdty.png" group-title="高清",广东体育
 http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8
