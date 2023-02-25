@@ -77,6 +77,10 @@ https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
 https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+#EXTINF:-1 tvg-name="河南4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="4K/8K-IPV6",河南4K
+http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+#EXTINF:-1 tvg-name="芒果娱乐4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="4K/8K-IPV6",芒果娱乐4K
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他",足球高清
 https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="其他",东方财经
