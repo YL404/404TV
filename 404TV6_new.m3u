@@ -22,7 +22,7 @@ https://live.goodiptv.club/api/sxg.php?id=CCTV-10H265_4000
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13 高清
 https://live.goodiptv.club/api/sxg.php?id=CCTV-xw_4000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K_4K50P
-https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
+http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="高清",CCTV16-4K50P
 https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视",CCTV风云足球高清
