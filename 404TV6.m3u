@@ -22,7 +22,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw30319478_-185824076/ott.
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13 高清
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K_4K50P
-http://159.75.85.63:5679/cctv4k.php
+http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="高清",CCTV-16_4K50P
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视",CCTV-风云足球高清
@@ -71,10 +71,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视 高清
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",SiTV魅力足球 高清
-https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-#EXTINF:-1,tvg-id="Bilibili体育" tvg-name="体育-bilibili" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",Bilibili-体育
-http://zzy789.xyz/bili.php?id=23755176
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",SiTV游戏风云高清
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
@@ -91,26 +87,6 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8K测试" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="动漫" tvg-name="蜡笔小新-bilibili-001" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/labixiaoxin.JPG" group-title="动漫",蜡笔小新-001
-http://zzy789.xyz/bili.php?id=22765729
-#EXTINF:-1,tvg-id="动漫" tvg-name="蜡笔小新-bilibili-002" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/labixiaoxin.JPG" group-title="动漫",蜡笔小新-002
-http://zzy789.xyz/bili.php?id=26329057
-#EXTINF:-1,tvg-id="动漫" tvg-name="蜡笔小新-bilibili-003" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/labixiaoxin.JPG" group-title="动漫",蜡笔小新-003
-http://zzy789.xyz/bili.php?id=94730
-#EXTINF:-1,tvg-id="动漫" tvg-name="蜡笔小新-bilibili-004" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/labixiaoxin.JPG" group-title="动漫",蜡笔小新-004
-http://zzy789.xyz/bili.php?id=10559824
-#EXTINF:-1,tvg-id="动漫" tvg-name="樱桃小丸子-bilibili-001" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/yingtaoxiaowanzi.JPG" group-title="动漫",樱桃小丸子-001
-http://zzy789.xyz/bili.php?id=23242774
-#EXTINF:-1,tvg-id="动漫" tvg-name="樱桃小丸子-bilibili-002" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/yingtaoxiaowanzi.JPG" group-title="动漫",樱桃小丸子-002
-http://zzy789.xyz/bili.php?id=11765640
-#EXTINF:-1,tvg-id="动漫" tvg-name="柯南-001" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/kenan.JPG" group-title="动漫",柯南-001
-http://zzy789.xyz/bili.php?id=27782414
-#EXTINF:-1,tvg-id="动漫" tvg-name="柯南-002" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/kenan.JPG" group-title="动漫",柯南-002
-http://zzy789.xyz/bili.php?id=25653613
-#EXTINF:-1,tvg-id="动漫" tvg-name="柯南-003" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/kenan.JPG" group-title="动漫",柯南-003
-http://zzy789.xyz/bili.php?id=10375360
-#EXTINF:-1,tvg-id="动漫" tvg-name="柯南-004" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/kenan.JPG" group-title="动漫",柯南-004
-http://epg.112114.xyz/douyu/7620081
 #EXTINF:-1,tvg-id="66" tvg-name="66" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/douyu.jpeg" group-title="Douyu",66
 https://epg.112114.xyz/douyu/156277
 #EXTINF:-1,tvg-id="YJJ" tvg-name="YJJ" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/YL404/404TV/main/LOGOS/douyu.jpeg" group-title="Douyu",YJJ
