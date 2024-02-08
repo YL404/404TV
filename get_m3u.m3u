@@ -1,7 +1,22 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-
+#EXTINF:-1 group-title="未分类",CCTV4K-HLG-36Mbps-25FPS
+http://1.14.131.61:5828/cctv4k.php
+#EXTINF:-1 group-title="未分类",CCTV4K-HLG-36Mbps-50FPS-GuDou
+http://1.14.131.61:5678/gd4k.php
+#EXTINF:-1 group-title="未分类",CCTV4K-HLG-36Mbps-50FPS
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
+#EXTINF:-1 group-title="未分类",CCTV4K-HLG-36Mbps-50FPS-臻彩视听
+http://1.14.131.61:8765/av3a4k50fps.php
+#EXTINF:-1 group-title="未分类",CCTV8K-HLG-50FPS-AV3A-臻彩视听
+http://1.14.131.61:8654/av3a8k50fps.php
+#EXTINF:-1 group-title="未分类",移动8K-1-150Mbps-50FPS-HLG-HEVC
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
+#EXTINF:-1 group-title="未分类",移动8K-2-150Mbps-50FPS-HLG-HEVC
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
+#EXTINF:-1 group-title="未分类",移动8K-3-150Mbps-50FPS-HLG-AVS3
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235537/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="主线路1",CCTV-1 综合
 http://159.75.85.63:5681/sxg.php?id=CCTV-1H265_4000
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="主线路1",CCTV-2 财经
