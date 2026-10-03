@@ -47,10 +47,10 @@ rtp://239.3.1.22:8001
 rtp://239.3.1.242:8000
 #EXTINF:-1 channel-number="26" tvg-id="26" tvg-name="BRTV体育休闲高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_TiYuXiuXian.png" group-title="卫视" zz-definition="HD",体育休闲
 rtp://239.3.1.243:8000
-#EXTINF:-1 channel-number="24" tvg-id="24" tvg-name="BRTV影视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_YingShi.png" group-title="卫视" zz-definition=HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226094/10000100000000060000000000804258_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京影视
+#EXTINF:-1 channel-number="24" tvg-id="24" tvg-name="BRTV影视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_YingShi.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226094/10000100000000060000000000804258_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京影视
 rtp://239.3.1.158:8000
 #EXTINF:-1 channel-number="29" tvg-id="29" tvg-name="BRTV新闻高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_XinWen.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226092/10000100000000060000000000804251_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京新闻
-rtp://239.3.1.159:8000 
+rtp://239.3.1.159:8000
 #EXTINF:-1 channel-number="25" tvg-id="25" tvg-name="BRTV财经高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_CaiJing.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226134/10000100000000060000000001010593_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京财经
 rtp://239.3.1.116:8000
 #EXTINF:-1 channel-number="27" tvg-id="27" tvg-name="BRTV生活高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_ShengHuo.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226141/10000100000000060000000001010592_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京生活
@@ -103,6 +103,12 @@ rtp://239.3.1.133:8016
 rtp://239.3.1.240:8172
 #EXTINF:-1 channel-number="62" tvg-id="62" tvg-name="甘肃卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GanSu.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226197/397709753.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",甘肃卫视
 rtp://239.3.1.201:8180
+#EXTINF:-1 channel-number="60" tvg-id="60" tvg-name="海南卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HaiNan.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/PLTV/88888892/224/3221226227/422333129.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",海南卫视
+rtp://239.3.1.205:8228
+#EXTINF:-1 channel-number="61" tvg-id="61" tvg-name="陕西卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShaanXi.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226223/422332704.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",陕西卫视
+rtp://239.3.1.203:8220
+#EXTINF:-1 channel-number="75" tvg-id="75" tvg-name="内蒙古卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/NeiMengGu.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226225/422332751.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",内蒙古卫视
+rtp://239.3.1.204:8224
 #EXTINF:-1 channel-number="71" tvg-id="71" tvg-name="宁夏卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/NingXia.png" group-title="卫视" zz-definition="HD",宁夏卫视
 rtp://239.3.1.169:8212
 #EXTINF:-1 channel-number="64" tvg-id="64" tvg-name="新疆卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/XinJiang.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226201/400975092.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新疆卫视
@@ -127,11 +133,15 @@ rtp://239.3.1.220:4220
 rtp://239.3.1.57:8152
 #EXTINF:-1 channel-number="79" tvg-id="79" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/ZhongGuoJiaoTong.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226173/10000100000000060000000001341044_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中国交通
 rtp://239.3.1.188:8001
-#EXTINF:-1 group-title="数字" zz-definition="HD",中国天气
-rtp://239.3.1.165:8001
-#EXTINF:-1 group-title="数字" zz-definition="HD",四海钓鱼
+#EXTINF:-1 channel-number="322" tvg-id="322" tvg-name="中国天气" group-title="数字" zz-definition="HD",中国天气
+rtp://239.3.1.108:8001
+#EXTINF:-1 channel-number="320" tvg-id="320" tvg-name="四海钓鱼" group-title="数字" zz-definition="HD",四海钓鱼
 rtp://239.3.1.164:8001
-#EXTINF:-1 channel-number="77" tvg-id="77" tvg-name="金鹰纪实高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan_JingYingJiShi.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226050/10000100000000060000000000384062_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",金鹰纪实
+#EXTINF:-1 channel-number="36" tvg-id="36" tvg-name="求索纪录4K" group-title="数字" zz-definition="HD",求索纪录
+rtp://239.3.1.107:8001
+#EXTINF:-1 channel-number="323" tvg-id="323" tvg-name="环球旅游" group-title="数字" zz-definition="HD",环球旅游
+rtp://239.3.1.109:8001
+#EXTINF:-1 channel-number="77" tvg-id="77" tvg-name="金鹰纪实高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_JinYingJiShi.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226050/10000100000000060000000000384062_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",金鹰纪实
 rtp://239.3.1.58:8156
 #EXTINF:-1 channel-number="80" tvg-id="80" tvg-name="证券服务" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GanSu_ZhengQuanFuWu.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226210/406742223.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",证券服务
 rtp://239.3.1.24:8001
@@ -143,6 +153,8 @@ rtp://239.3.1.126:8001
 rtp://239.3.1.127:8001
 #EXTINF:-1 channel-number="69" tvg-id="69" tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiGuangChangWu.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226164/10000100000000060000000001464351_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩广场舞
 rtp://239.3.1.128:8001
+#EXTINF:-1 channel-number="70" tvg-id="70" tvg-name="CHC动作电影" group-title="数字" zz-definition="HD",CHC动作电影
+rtp://239.3.1.106:8001
 #EXTINF:-1 channel-number="401" tvg-id="401" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/AiShang4K.png" group-title="数字" zz-definition="UHD",爱上4K
 rtp://239.3.1.236:2000
 #EXTINF:-1 channel-number="40" tvg-id="40" tvg-name="4K超清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BJIPTV_4KChaoQing.png" group-title="数字" zz-definition="UHD",4K超清
@@ -159,7 +171,7 @@ rtp://239.3.1.74:4120
 rtp://239.3.1.90:4120
 #EXTINF:-1 channel-number="375" tvg-id="375" tvg-name="喜剧影院" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226044/10000100000000060000000000286227_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",喜剧影院
 rtp://239.3.1.91:4120
-#EXTINF:-1 channel-number="376" tvg-id="376" tvg-name="动作影院" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226039/10000100000000060000000000286226_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",,动作影院
+#EXTINF:-1 channel-number="376" tvg-id="376" tvg-name="动作影院" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226039/10000100000000060000000000286226_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",动作影院
 rtp://239.3.1.92:4120
 #EXTINF:-1 channel-number="377" tvg-id="377" tvg-name="家庭影院" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226034/10000100000000060000000000285685_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",家庭影院
 rtp://239.3.1.93:4120
@@ -169,7 +181,7 @@ rtp://239.3.1.94:4120
 rtp://239.3.1.84:4120
 #EXTINF:-1 channel-number="203" tvg-id="203" tvg-name="经典电影" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225857/10000100000000060000000000025082_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",经典电影
 rtp://239.3.1.195:9024
-#EXTINF:-1 channel-number="349" tvg-id="349" tvg-name="重温经典",group-title="数字" zz-definition="HD",重温经典
+#EXTINF:-1 channel-number="349" tvg-id="349" tvg-name="重温经典" group-title="数字" zz-definition="HD",重温经典
 rtp://239.3.1.25:8001
 #EXTINF:-1 channel-number="202" tvg-id="202" tvg-name="热播剧场" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225855/10000100000000060000000000025078_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",热播剧场
 rtp://239.3.1.194:9020
